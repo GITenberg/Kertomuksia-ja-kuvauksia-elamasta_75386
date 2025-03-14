@@ -1,0 +1,33 @@
+_repo: Kertomuksia-ja-kuvauksia-elamasta_75386
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kataja, Liina
+    birthdate: 1880
+    deathdate: 1940
+    gutenberg_agent_id: '57975'
+    url: http://www.gutenberg.org/2009/agents/57975
+description: ''
+gutenberg_issued: '2025-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75386'
+language: fi
+pgterms:marc905: 20241128004010kataja
+pgterms:marc906: '1914'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aPori :$bOtto Andersin, $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Finnish'
+- !lcsh 'Finnish fiction -- 20th century'
+- !lcc 'PH'
+- GITenberg
+tableOfContents: Taistelu ja voitto -- Emma Dahl -- Uni -- "Sydämen taisteluja ja
+  toiveita" -- Kolmen vuoden kuluttua -- Kaksi puoliksi auennutta ruusun-nuppua --
+  Särkyneitä sydämiä.
+title: Kertomuksia ja kuvauksia elämästä
+url: http://www.gutenberg.org/ebooks/75386
