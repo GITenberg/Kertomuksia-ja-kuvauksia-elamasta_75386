@@ -1,5 +1,8 @@
 _repo: Kertomuksia-ja-kuvauksia-elamasta_75386
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kataja, Liina
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '57975'
     url: http://www.gutenberg.org/2009/agents/57975
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75386#Kertomuksia-ja-kuvauksia-elamasta
 gutenberg_issued: '2025-02-16'
 gutenberg_type: Text
 identifiers:
